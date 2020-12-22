@@ -5,7 +5,8 @@ several kinds of plots, a box plot analysis of some of the therapies, and a line
 
 ***Files***
 
-Matplotlib_cancer_bio_challenge_final.ipynb - is a Jupyter notebook containing the analysis.
+Matplotlib_cancer_bio_challenge_final.ipynb - is a Jupyter notebook containing the analysis. It seems to load incorrectly on the first attempt, but display 
+correctly if you reload it. If you cannot get this file to work, the code can be perused in the "just_code" version I pushed to this repo (see below).
 
 Matplotlib_challenge_final_just_code_v2.py - this is a de-jupyterized version of the above that I added as a backup. It has the same code as the above Jupyter Notebook
 and will execute if the .csv files are placed in the same folder as it. I've seen some errors with the jupyter files not displayling correctly in github, or reverting
