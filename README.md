@@ -1,6 +1,6 @@
 # Matplotlib_challenge
 
-This was a challenge to complete some cleaning and analysis task fictional in vivo pharmacological data. The analyses include descriptive statistics, 
+This was a challenge to complete some cleaning and analysis tasks on fictional in-vivo pharmacological data. The analyses include descriptive statistics, 
 several kinds of plots, a box plot analysis of some of the therapies, and a linear regression analysis at the end. 
 
 ***Files***
